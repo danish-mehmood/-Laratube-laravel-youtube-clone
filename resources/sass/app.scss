@@ -1,0 +1,26 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+
+#submitter{
+
+    color: white;
+}
+
+.channel-avatar{
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+
+}
+
+#filer{
+    display: none;
+    
+}
